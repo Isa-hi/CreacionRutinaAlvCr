@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    align-items: center;
+}
+.rutina-container{
+    min-width: 50%;
+    max-width: 70%;
+    margin: 50px auto;
+}
